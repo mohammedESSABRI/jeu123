@@ -1,0 +1,48 @@
+﻿Nombre id photo  audio(ou null)  idElementSuivant(ou -1)  valeur    coordonneésClick(1-2-3-4)
+Teste  id photo  audio(ou null)  idElementSuivant(ou -1)  réponseCorrecte(1-2-3-4)  réponsesIncorrectes(1[1:2:3:4] - 2[1:2:3:4] ---
+Menu id photo audio(ou null) coordonneesclicks(1[1:2:3:4]-2[1:2:3:4])--- elementsClicks(1-2-3-4)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Menu 0 acceuil.gif acceuil.mp3 494:584:402:498 1
+Menu 1 etape1.jpg niveau1.mp3 840:1061:360:540 2
+Nombre 2 etape1-1.gif etape1-1.mp3 3 1 806-970-380-470
+Nombre 3 etape1-2.gif etape1-2.mp3 4 2 806-970-380-470
+Nombre 4 etape1-3.gif etape1-3.mp3 5 3 806-970-380-470
+Nombre 5 etape1-4.gif etape1-4.mp3 6 4 806-970-380-470
+Nombre 6 etape1-5.gif etape1-5.mp3 7 5 806-970-380-470
+Nombre 7 etape1-6.gif etape1-6.mp3 8 -1 806-970-380-470
+Nombre 8 etape1-7.gif etape1-7.mp3 9 -1 806-970-380-470
+Nombre 9 etape1-8.gif etape1-8.mp3 10 -1 806-970-380-470
+Nombre 10 etape1-9.gif etape1-9.mp3 11 -1 806-970-380-470
+Teste 11 etape1-10.gif etape1-10.mp3 12 410-820-352-448 410:820:90:180-410:820:214:312
+Teste 12 etape1-11.gif etape1-11.mp3 13 409-683-233-333 410:683:90:180-410:683:372:468
+Teste 13 etape1-12.gif etape1-12.mp3 14 330-970-90-180 410:683:233:333-410:683:372:468
+Teste 14 etape1-13.gif etape1-13.mp3 15 780-920-72-196 780:920:216:322-780:920:355:441
+Teste 15 etape1-14.gif etape1-14.mp3 16 780-920-355-441 780:920:216:322-780:920:72:196
+Nombre 16 etape1-15.gif etape1-15.mp3 17 -1 806-970-380-470
+Menu 17 etape2.jpg niveau2.mp3 840:1061:360:540 18
+Nombre 18 etape2-1.gif etape2-1.mp3 19 6 806-970-380-470
+Nombre 19 etape2-2.gif etape2-2.mp3 20 7 806-970-380-470
+Nombre 20 etape2-3.gif etape2-3.mp3 21 8 806-970-380-470
+Nombre 21 etape2-4.gif etape2-4.mp3 22 9 806-970-380-470
+Nombre 22 etape2-5.gif etape2-5.mp3 23 10 806-970-380-470
+Nombre 23 etape2-6.gif etape2-6.mp3 24 -1 806-970-380-470
+Nombre 24 etape2-7.gif etape2-7.mp3 25 -1 806-970-380-470
+Teste 25 etape2-8.gif etape2-8.mp3 26 740-850-338-430 740:850:70:175-740:850:216:307
+Teste 26 etape2-9.gif etape2-9.mp3 27 700-890-70-175 700:890:201:307-700:890:330:440
+Nombre 27 etape2-10.gif etape2-10.mp3 28 -1 806-970-380-470
+Menu 28 etape3.jpg niveau3.mp3 806:970:380:470 29
+Nombre 29 etape3-1.gif etape3-1.mp3 30 11 806-970-380-470
+Nombre 30 etape3-2.gif etape3-2.mp3 31 12 806-970-380-470
+Nombre 31 etape3-3.gif etape3-3.mp3 32 13 806-970-380-470
+Nombre 32 etape3-4.gif etape3-4.mp3 33 14 806-970-380-470
+Nombre 33 etape3-5.gif etape3-5.mp3 34 15 806-970-380-470
+Nombre 34 etape3-6.gif etape3-6.mp3 35 16 806-970-380-470
+Nombre 35 etape3-7.gif etape3-7.mp3 36 17 806-970-380-470
+Nombre 36 etape3-8.gif etape3-8.mp3 37 18 806-970-380-470
+Nombre 37 etape3-9.gif etape3-9.mp3 38 19 806-970-380-470
+Nombre 38 etape3-10.gif etape3-10.mp3 39 20 806-970-380-470
+Nombre 39 etape3-11.gif etape3-11.mp3 40 -1 806-970-380-470
+Teste 40 etape3-teste1.gif etape3-teste1.mp3 41 700-890-70-194 700:890:206:312-700:890:338:433
+Teste 41 etape3-teste2.gif etape3-teste2.mp3 42 680-864-209-316 680:864:70:194-680:864:337:436
+Teste 42 etape3-teste3.gif etape3-teste3.mp3 43 711-870-208-291 711:870:80:179-711:870:316:421
+Menu 43 final.gif final.mp3 806:970:380:470 1
