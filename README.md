@@ -1,5 +1,5 @@
-# jeu123 réalisé en JAVA.
-# des explcations disponibles sur : youtube.com/watch?v=7fzbOSw08_k.
+# Jeu123 réalisé en JAVA.
+# Des explcations sont disponibles sur : youtube.com/watch?v=7fzbOSw08_k.
 c'est un jeu crée en java pour l'apprentissage des nombre de 1 à 20 pour les enfants
 les technologies utilisées dans ce projet sont:
 - JDK environnement de l'interpretation et la compilation 
