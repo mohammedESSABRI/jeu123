@@ -62,7 +62,7 @@ public class Principal extends JFrame{
 		System.out.println(elements.get(3).toString());*/
 		
 		Menu premierElement=(Menu)elements.get(0);
-		
+		System.out.println("test2");
 		afficheur=new AffichagePhoto(premierElement.getPhoto(),0);
 		this.add(afficheur, BorderLayout.CENTER);
 		messages=new JLabel("default");
