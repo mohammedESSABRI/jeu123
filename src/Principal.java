@@ -96,7 +96,7 @@ public class Principal extends JFrame{
 		home.addMouseMotionListener(ecouteur);
 
 		
-		
+		System.out.println("eee");
 		
 		
 		*/
